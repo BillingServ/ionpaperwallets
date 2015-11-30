@@ -78,5 +78,5 @@ janin.currency = {
 
 janin.currencies = [
     //                    name, networkVersion, privateKeyPrefix, WIF_Start, CWIF_Start, donate
-    janin.currency.createCurrency ("Influxcoin", 0x42, 0x99, "6",    "P"    , "i83eN9HxFvfsxSwjXiZQZaWf13cWF25K9Y")
+    janin.currency.createCurrency ("transfercoin", 0x42, 0x99, "6",    "P"    , "TbnW6ih8314ksuutJpRjwUbc2mAkz64Tij")
                    ];
