@@ -78,5 +78,5 @@ janin.currency = {
 
 janin.currencies = [
     //                    name, networkVersion, privateKeyPrefix, WIF_Start, CWIF_Start, donate
-    janin.currency.createCurrency ("transfercoin", 0x42, 0x99, "6",    "P"    , "TbnW6ih8314ksuutJpRjwUbc2mAkz64Tij")
+    janin.currency.createCurrency ("ion", 0x42, 0x99, "6",    "P"    , "iXxpnF6XjS9NTeyA9t6Dcg9t6CenWhk88Q")
                    ];
